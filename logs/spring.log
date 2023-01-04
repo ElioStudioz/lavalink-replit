@@ -1,0 +1,810 @@
+2023-01-04 00:03:19.052 ERROR 55 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:38284
+2023-01-04 00:04:50.653 ERROR 55 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:51566
+2023-01-04 00:11:36.833 ERROR 55 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:57488
+2023-01-04 00:13:56.675 ERROR 55 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:45130
+2023-01-04 00:17:09.427  INFO 55 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:45630 -- CloseStatus[code=1006, reason=]
+2023-01-04 00:17:09.428  INFO 55 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 00:17:22.220  INFO 55 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:58150
+2023-01-04 00:17:22.230  INFO 55 --- [XNIO-1 task-1] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 00:19:25.108 ERROR 55 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:60890
+2023-01-04 00:20:46.953 ERROR 55 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:58198
+2023-01-04 00:25:35.023 ERROR 55 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:40800
+2023-01-04 00:38:35.734 ERROR 55 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:46076
+2023-01-04 00:54:46.145 ERROR 55 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:52278
+2023-01-04 00:56:38.624 ERROR 55 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:42828
+2023-01-04 00:59:02.173 ERROR 55 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:55518
+2023-01-04 01:00:00.252 ERROR 55 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:59024
+2023-01-04 01:02:46.510 ERROR 55 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:55170
+2023-01-04 01:04:26.195 ERROR 55 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:40262
+2023-01-04 01:04:52.159 ERROR 55 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:33030
+2023-01-04 01:08:54.222 ERROR 55 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:47128
+2023-01-04 01:09:38.282 ERROR 55 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:59464
+2023-01-04 01:13:59.844 ERROR 55 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:53412
+2023-01-04 01:18:22.902  INFO 55 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:57530
+2023-01-04 01:18:22.910  INFO 55 --- [XNIO-1 task-1] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 01:18:55.800  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "scsearch:s"
+2023-01-04 01:18:55.803  INFO 55 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:s"
+2023-01-04 01:18:56.114  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:s"
+2023-01-04 01:18:57.422  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:a"
+2023-01-04 01:18:57.440  INFO 55 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "scsearch:a"
+2023-01-04 01:18:57.522  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:a"
+2023-01-04 01:18:57.624  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-4] c.s.d.l.s.s.SoundCloudClientIdTracker    : Updating SoundCloud client ID (current is null).
+2023-01-04 01:18:58.539  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:aot"
+2023-01-04 01:18:58.622  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "scsearch:aot"
+2023-01-04 01:18:58.738  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:aot"
+2023-01-04 01:18:59.824  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:aot e"
+2023-01-04 01:18:59.827  INFO 55 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:aot e"
+2023-01-04 01:18:59.829  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "scsearch:aot e"
+2023-01-04 01:19:01.157  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:aot"
+2023-01-04 01:19:01.155  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "scsearch:aot"
+2023-01-04 01:19:01.160  INFO 55 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:aot"
+2023-01-04 01:19:01.524  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:aot f"
+2023-01-04 01:19:01.556  INFO 55 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:aot f"
+2023-01-04 01:19:01.555  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "scsearch:aot f"
+2023-01-04 01:19:04.523  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-9] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: aot e
+2023-01-04 01:19:04.574  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-10] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: aot e
+2023-01-04 01:19:04.874  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-6] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: aot
+2023-01-04 01:19:04.952  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-2] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: s
+2023-01-04 01:19:04.979  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-5] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: a
+2023-01-04 01:19:06.998  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-3] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: a
+2023-01-04 01:19:07.065  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:aot final season opening"
+2023-01-04 01:19:07.042  INFO 55 --- [XNIO-1 task-5] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "scsearch:aot final season opening"
+2023-01-04 01:19:07.035  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: s
+2023-01-04 01:19:07.122  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:aot final season opening"
+2023-01-04 01:19:07.298  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-8] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: aot
+2023-01-04 01:19:07.493  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-2] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: aot
+2023-01-04 01:19:07.629  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-4] c.s.d.l.s.s.SoundCloudClientIdTracker    : Updating SoundCloud client ID succeeded, new ID is EKw2COF69dor1ouPVbkxglStk9ZPEI1s.
+2023-01-04 01:19:07.939  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":80}
+2023-01-04 01:19:08.421  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:aot final season opening"
+2023-01-04 01:19:08.426  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"voiceUpdate","guildId":"1011771649869230131","sessionId":"fdcc53047f024e7cfb6cb6b2145954c9","event":{"token":"940d9628ccd0902e","guild_id":"1011771649869230131","endpoint":"buenos-aires7609.discord.media:443"}}
+2023-01-04 01:19:08.642  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-3] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: aot f
+2023-01-04 01:19:08.727  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-6] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: aot
+2023-01-04 01:19:08.921  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-2] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: aot final season opening
+2023-01-04 01:19:09.036  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: aot f
+2023-01-04 01:19:09.229  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-8] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: aot f
+2023-01-04 01:19:09.233  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-10] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: s
+2023-01-04 01:19:09.234  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-7] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: aot
+2023-01-04 01:19:09.235  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-9] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: aot
+2023-01-04 01:19:09.292  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-5] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: aot e
+2023-01-04 01:19:09.516  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-3] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: aot final season opening
+2023-01-04 01:19:09.640  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-4] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: a
+2023-01-04 01:19:09.981  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-6] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: aot final season opening
+2023-01-04 01:19:09.984  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-2] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: aot final season opening
+2023-01-04 01:19:10.461  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1011771649869230131","track":"QAAAaQIADFRoZSBSdW1ibGluZwADU2lNAAAAAAADX0gAC3FwSHZqNXB2dmhnAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cXBIdmo1cHZ2aGcAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-04 01:19:10.627  WARN 55 --- [lava-daemon-pool-playback-1-thread-1] c.s.d.l.s.y.YoutubeAccessTokenTracker    : YouTube auth tokens can't be retrieved because email and password is not set in YoutubeAudioSourceManager, age restricted videos will throw exceptions.
+2023-01-04 01:19:16.161  INFO 55 --- [lava-daemon-pool-playback-1-thread-1] c.s.l.c.natives.NativeLibraryLoader      : Native library libmpg123-0: loading with filter com.sedmelluq.discord.lavaplayer.natives.ConnectorNativeLibLoader$$Lambda$827/0x00000008012c7ce0@8f2f091
+2023-01-04 01:19:16.169  INFO 55 --- [lava-daemon-pool-playback-1-thread-1] c.s.l.c.natives.NativeLibraryLoader      : Native library connector: loading with filter null
+2023-01-04 01:19:16.387  INFO 55 --- [lava-daemon-pool-playback-1-thread-1] c.s.l.c.natives.NativeLibraryLoader      : Native library connector: successfully loaded.
+2023-01-04 01:19:17.028  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":90}
+2023-01-04 01:19:20.073  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":80}
+2023-01-04 01:19:22.387  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":70}
+2023-01-04 01:19:24.914  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":60}
+2023-01-04 01:19:49.841 ERROR 55 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:49384
+2023-01-04 01:19:52.204  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1011771649869230131"}
+2023-01-04 01:19:56.899  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:s"
+2023-01-04 01:19:56.920  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "scsearch:s"
+2023-01-04 01:19:56.912  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:s"
+2023-01-04 01:19:57.731  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-11] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: s
+2023-01-04 01:19:57.832  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-6] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: s
+2023-01-04 01:19:58.396  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:ansioso"
+2023-01-04 01:19:58.494  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:ansioso"
+2023-01-04 01:19:58.607  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "scsearch:ansioso"
+2023-01-04 01:19:58.610  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:ansioso"
+2023-01-04 01:19:58.681  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-11] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: s
+2023-01-04 01:19:58.917  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-6] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: ansioso
+2023-01-04 01:19:58.935  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-12] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: ansioso
+2023-01-04 01:19:58.973  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1011771649869230131","track":"QAAAiwIAJEVsIEFuc2lvc28gKGZlYXQuIE1hcnJhbm8gR29uesOhbGV6KQANR3J1cG8gTWFycmFubwAAAAAAAyDIAAtmUzRUcE9XckN6VQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWZTNFRwT1dyQ3pVAAd5b3V0dWJlAAAAAAAAAAA="}
+2023-01-04 01:19:59.121  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-13] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: ansioso
+2023-01-04 01:19:59.325  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-11] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: ansioso
+2023-01-04 01:20:03.754  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1011771649869230131"}
+2023-01-04 01:20:12.887  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:ansioso"
+2023-01-04 01:20:12.889  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "scsearch:ansioso"
+2023-01-04 01:20:12.902  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:ansioso"
+2023-01-04 01:20:12.926  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:ansioso"
+2023-01-04 01:20:13.146  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-12] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: ansioso
+2023-01-04 01:20:13.327  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-6] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: ansioso
+2023-01-04 01:20:13.437  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-11] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: ansioso
+2023-01-04 01:20:13.624  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-13] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: ansioso
+2023-01-04 01:20:13.722  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1011771649869230131","track":"QAAAiwIAJEVsIEFuc2lvc28gKGZlYXQuIE1hcnJhbm8gR29uesOhbGV6KQANR3J1cG8gTWFycmFubwAAAAAAAyDIAAtmUzRUcE9XckN6VQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWZTNFRwT1dyQ3pVAAd5b3V0dWJlAAAAAAAAAAA="}
+2023-01-04 01:20:15.592  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":70}
+2023-01-04 01:20:17.733  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":80}
+2023-01-04 01:20:19.461  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":90}
+2023-01-04 01:20:21.668  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":100}
+2023-01-04 01:20:56.114  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":90}
+2023-01-04 01:20:56.180  WARN 55 --- [lava-daemon-pool-manager-3-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 9] [Bucket 20 = 3] [Bucket 50 = 6] [Bucket 200 = 4] [Bucket 500 = 1] [Bucket 2000 = 0] 
+2023-01-04 01:21:01.466  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":80}
+2023-01-04 01:21:02.039  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":70}
+2023-01-04 01:21:03.068  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":60}
+2023-01-04 01:21:03.690  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":50}
+2023-01-04 01:21:04.531  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":40}
+2023-01-04 01:21:05.290  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":30}
+2023-01-04 01:21:09.918  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":40}
+2023-01-04 01:21:10.643  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":50}
+2023-01-04 01:21:11.688  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":60}
+2023-01-04 01:21:12.548  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":70}
+2023-01-04 01:21:18.133  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":80}
+2023-01-04 01:21:18.938  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":90}
+2023-01-04 01:22:08.813  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1011771649869230131"}
+2023-01-04 01:22:12.800  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:rumbling aot"
+2023-01-04 01:22:13.290  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-13] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: rumbling aot
+2023-01-04 01:22:13.372  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1011771649869230131","track":"QAAAaQIADFRoZSBSdW1ibGluZwADU2lNAAAAAAADX0gAC3FwSHZqNXB2dmhnAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cXBIdmo1cHZ2aGcAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-04 01:25:57.866 ERROR 55 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:42796
+2023-01-04 01:28:36.131  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:devils work"
+2023-01-04 01:28:36.717  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-13] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: devils work
+2023-01-04 01:28:36.764  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1011771649869230131","track":"QAAAcgIADERldmlsJ3MgV29yawAMSm95bmVyIEx1Y2FzAAAAAAAEXTAAC3d3ajNUWU5nNExvAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9d3dqM1RZTmc0TG8AB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-04 01:28:41.541  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1011771649869230131"}
+2023-01-04 01:29:50.891  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:the last of us rap keyblade"
+2023-01-04 01:29:51.458  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-13] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: the last of us rap keyblade
+2023-01-04 01:29:51.506  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1011771649869230131","track":"QAAAgQIAH0N1ZXN0acOzbiBkZSBGZSAoT3V0bGFzdCAyIFJhcCkACEtleWJsYWRlAAAAAAADFRAACzdXOHI4NzJQdExzAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9N1c4cjg3MlB0THMAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-04 01:31:21.603  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:57530 -- CloseStatus[code=1006, reason=]
+2023-01-04 01:31:21.604  INFO 55 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 1 playing players.
+2023-01-04 01:31:52.004  INFO 55 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:34876
+2023-01-04 01:31:52.021  INFO 55 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 01:31:59.497  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:k"
+2023-01-04 01:31:59.522  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "scsearch:k"
+2023-01-04 01:31:59.540  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:k"
+2023-01-04 01:32:00.235  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-13] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: k
+2023-01-04 01:32:00.465  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-14] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: k
+2023-01-04 01:32:01.260  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-13] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: k
+2023-01-04 01:32:01.737  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "scsearch:keyblade"
+2023-01-04 01:32:01.801  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:keyblade"
+2023-01-04 01:32:01.801  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:keyblade"
+2023-01-04 01:32:02.129  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-14] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: keyblade
+2023-01-04 01:32:02.435  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-13] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: keyblade
+2023-01-04 01:32:02.647  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-14] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: keyblade
+2023-01-04 01:32:03.193  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "scsearch:keyblade o"
+2023-01-04 01:32:03.198  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:keyblade o"
+2023-01-04 01:32:03.236  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:keyblade o"
+2023-01-04 01:32:03.479  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-13] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: keyblade o
+2023-01-04 01:32:03.606  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-15] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: keyblade o
+2023-01-04 01:32:03.755  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-14] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: keyblade o
+2023-01-04 01:32:07.453  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:keyblade resident evil 7"
+2023-01-04 01:32:07.696  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:keyblade resident evil 7"
+2023-01-04 01:32:07.786  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:keyblade resident evil 7"
+2023-01-04 01:32:07.806  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "scsearch:keyblade resident evil 7"
+2023-01-04 01:32:07.984  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-13] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: keyblade resident evil 7
+2023-01-04 01:32:08.170  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-16] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: keyblade resident evil 7
+2023-01-04 01:32:08.229  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-14] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: keyblade resident evil 7
+2023-01-04 01:32:08.340  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-15] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: keyblade resident evil 7
+2023-01-04 01:32:15.463  INFO 55 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1011771649869230131"}
+2023-01-04 01:32:23.531  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "scsearch:r"
+2023-01-04 01:32:23.532  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:r"
+2023-01-04 01:32:23.728  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:r"
+2023-01-04 01:32:24.060  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-16] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: r
+2023-01-04 01:32:24.331  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-14] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: r
+2023-01-04 01:32:24.423  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-13] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: r
+2023-01-04 01:32:26.668  INFO 55 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:resident evil 7 keyblade"
+2023-01-04 01:32:26.668  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "scsearch:resident evil 7 keyblade"
+2023-01-04 01:32:26.675  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:resident evil 7 keyblade"
+2023-01-04 01:32:26.714  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:resident evil 7 keyblade"
+2023-01-04 01:32:27.112  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-14] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: resident evil 7 keyblade
+2023-01-04 01:32:27.162  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-16] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: resident evil 7 keyblade
+2023-01-04 01:32:27.229  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-15] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: resident evil 7 keyblade
+2023-01-04 01:32:27.246  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-13] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: resident evil 7 keyblade
+2023-01-04 01:32:34.907  INFO 55 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"pause","guildId":"1011771649869230131","pause":true}
+2023-01-04 01:32:37.494  INFO 55 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"pause","guildId":"1011771649869230131","pause":false}
+2023-01-04 01:32:45.432  INFO 55 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"pause","guildId":"1011771649869230131","pause":true}
+2023-01-04 01:32:45.604  INFO 55 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"destroy","guildId":"1011771649869230131"}
+2023-01-04 01:32:55.219  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:m"
+2023-01-04 01:32:55.346  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:m"
+2023-01-04 01:32:55.352  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "scsearch:m"
+2023-01-04 01:32:55.818  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-14] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: m
+2023-01-04 01:32:55.886  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-16] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: m
+2023-01-04 01:32:56.193  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-15] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: m
+2023-01-04 01:32:57.355  INFO 55 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1011771649869230131","volume":80}
+2023-01-04 01:32:57.403  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:mil horas slowed"
+2023-01-04 01:32:57.525  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytsearch:mil horas slowed"
+2023-01-04 01:32:57.532  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:mil horas slowed"
+2023-01-04 01:32:57.586  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "scsearch:mil horas slowed"
+2023-01-04 01:32:57.596  INFO 55 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"voiceUpdate","guildId":"1011771649869230131","sessionId":"fdcc53047f024e7cfb6cb6b2145954c9","event":{"token":"f65b5dc85721772c","guild_id":"1011771649869230131","endpoint":"buenos-aires7609.discord.media:443"}}
+2023-01-04 01:32:58.004  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-14] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: mil horas slowed
+2023-01-04 01:32:58.053  INFO 55 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1011771649869230131","track":"QAAAeQIACU1pbCBIb3JhcwAWTG9zIEFidWVsb3MgRGUgTGEgTmFkYQAAAAAAApBAAAtPNHVCU2JreG9pawABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PU80dUJTYmt4b2lrAAd5b3V0dWJlAAAAAAAAAAA="}
+2023-01-04 01:32:58.086  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-16] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: mil horas slowed
+2023-01-04 01:32:58.159  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-15] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: mil horas slowed
+2023-01-04 01:32:58.322  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-14] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: mil horas slowed
+2023-01-04 01:34:52.842 ERROR 55 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:37390
+2023-01-04 01:36:05.368  INFO 55 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:45492
+2023-01-04 01:36:05.375  INFO 55 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 01:36:46.337  INFO 55 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "ytmsearch:slowed mil horas"
+2023-01-04 01:36:46.988  INFO 55 --- [lava-daemon-pool-info-loader-2-thread-14] lavalink.server.player.AudioLoader       : Loaded playlist Search music results for: slowed mil horas
+2023-01-04 01:36:47.037  INFO 55 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1011771649869230131","track":"QAAAeQIACU1pbCBIb3JhcwAWTG9zIEFidWVsb3MgRGUgTGEgTmFkYQAAAAAAApBAAAtPNHVCU2JreG9pawABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PU80dUJTYmt4b2lrAAd5b3V0dWJlAAAAAAAAAAA="}
+2023-01-04 01:43:00.533 ERROR 55 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:47032
+2023-01-04 01:47:20.425 ERROR 55 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:48874
+2023-01-04 01:50:59.048 ERROR 55 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:49860
+2023-01-04 01:54:40.793 ERROR 55 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:55980
+2023-01-04 01:55:35.484 ERROR 55 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:33852
+2023-01-04 01:56:33.077 ERROR 55 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:36510
+2023-01-04 01:59:06.302  INFO 55 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:44032 -- CloseStatus[code=1006, reason=]
+2023-01-04 01:59:06.302  INFO 55 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 01:59:36.442  INFO 55 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:32792
+2023-01-04 01:59:36.467  INFO 55 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 02:02:08.672 ERROR 55 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:56612
+2023-01-04 02:04:53.367 ERROR 55 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:40568
+2023-01-04 02:05:59.523 ERROR 55 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:40988
+2023-01-04 02:06:58.249  INFO 56 --- [main] lavalink.server.Launcher                 : Starting Launcher using Java 17.0.3 on ade4924a56ae with PID 56 (/home/runner/lavalink-replit/Lavalink.jar started by runner in /home/runner/lavalink-replit)
+2023-01-04 02:06:58.270  INFO 56 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-01-04 02:07:04.926  INFO 56 --- [main] lavalink.server.Launcher                 : Started Launcher in 9.566 seconds (JVM running for 11.793)
+2023-01-04 02:07:04.971  INFO 56 --- [main] lavalink.server.Launcher                 : You can safely ignore the big red warning about illegal reflection. See https://github.com/freyacodes/Lavalink/issues/295
+2023-01-04 02:07:05.331  INFO 56 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        3.5-rc3
+	Build:          1350
+	Build time:     11.08.2022 18:37:19 UTC
+	Branch          HEAD
+	Commit:         1b8e84f
+	Commit time:    11.08.2022 18:22:22 UTC
+	JVM:            17.0.3
+	Lavaplayer      1.3.98.2-original
+
+2023-01-04 02:07:05.371  INFO 56 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-01-04 02:07:09.178  WARN 56 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-01-04 02:07:09.256  INFO 56 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-01-04 02:07:09.257  INFO 56 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3814 ms
+2023-01-04 02:07:09.884  INFO 56 --- [main] l.server.metrics.PrometheusMetrics       : Prometheus metrics set up
+2023-01-04 02:07:10.050  WARN 56 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2023-01-04 02:07:11.544  INFO 56 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2023-01-04 02:07:12.406  INFO 56 --- [main] lavalink.server.config.KoeConfiguration  : OS: LINUX, Arch: X86_64
+2023-01-04 02:07:12.412  INFO 56 --- [main] lavalink.server.config.KoeConfiguration  : Enabling JDA-NAS
+2023-01-04 02:07:12.447  INFO 56 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: loading with filter null
+2023-01-04 02:07:12.481  INFO 56 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: successfully loaded.
+2023-01-04 02:07:14.787  INFO 56 --- [main] io.undertow                              : starting server: Undertow - 2.2.16.Final
+2023-01-04 02:07:14.886  INFO 56 --- [main] org.xnio                                 : XNIO version 3.8.6.Final
+2023-01-04 02:07:14.955  INFO 56 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.6.Final
+2023-01-04 02:07:15.473  INFO 56 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2023-01-04 02:07:15.681  INFO 56 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 443 (http)
+2023-01-04 02:07:15.715  INFO 56 --- [main] lavalink.server.Launcher                 : Started Launcher in 10.698 seconds (JVM running for 22.582)
+2023-01-04 02:07:15.747  INFO 56 --- [main] lavalink.server.Launcher                 : Lavalink is ready to accept connections.
+2023-01-04 02:07:16.140 ERROR 56 --- [XNIO-1 I/O-2] io.undertow.request                      : UT005071: Undertow request failed HttpServerExchange{ OPTIONS *}
+
+java.lang.IllegalArgumentException: UT000068: Servlet path match failed
+	at io.undertow.servlet.handlers.ServletPathMatchesData.getServletHandlerByPath(ServletPathMatchesData.java:83) ~[undertow-servlet-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.servlet.handlers.ServletPathMatches.getServletHandlerByPath(ServletPathMatches.java:133) ~[undertow-servlet-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleRequest(ServletInitialHandler.java:147) ~[undertow-servlet-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.handlers.HttpContinueReadHandler.handleRequest(HttpContinueReadHandler.java:69) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at org.springframework.boot.web.embedded.undertow.DeploymentManagerHttpHandlerFactory$DeploymentManagerHandler.handleRequest(DeploymentManagerHttpHandlerFactory.java:75) ~[spring-boot-2.6.6.jar!/:2.6.6]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:387) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpReadListener.handleEventWithNoRunningRequest(HttpReadListener.java:256) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpReadListener.handleEvent(HttpReadListener.java:136) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpOpenListener.handleEvent(HttpOpenListener.java:162) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpOpenListener.handleEvent(HttpOpenListener.java:100) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpOpenListener.handleEvent(HttpOpenListener.java:57) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at org.xnio.ChannelListeners.invokeChannelListener(ChannelListeners.java:92) ~[xnio-api-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.ChannelListeners$10.handleEvent(ChannelListeners.java:291) ~[xnio-api-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.ChannelListeners$10.handleEvent(ChannelListeners.java:286) ~[xnio-api-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.ChannelListeners.invokeChannelListener(ChannelListeners.java:92) ~[xnio-api-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.nio.QueuedNioTcpServer2.acceptTask(QueuedNioTcpServer2.java:178) ~[xnio-nio-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.nio.WorkerThread.safeRun(WorkerThread.java:612) ~[xnio-nio-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.nio.WorkerThread.run(WorkerThread.java:479) ~[xnio-nio-3.8.6.Final.jar!/:3.8.6.Final]
+
+2023-01-04 02:07:16.153 ERROR 56 --- [XNIO-1 I/O-1] io.undertow.request                      : UT005071: Undertow request failed HttpServerExchange{ OPTIONS *}
+
+java.lang.IllegalArgumentException: UT000068: Servlet path match failed
+	at io.undertow.servlet.handlers.ServletPathMatchesData.getServletHandlerByPath(ServletPathMatchesData.java:83) ~[undertow-servlet-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.servlet.handlers.ServletPathMatches.getServletHandlerByPath(ServletPathMatches.java:133) ~[undertow-servlet-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleRequest(ServletInitialHandler.java:147) ~[undertow-servlet-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.handlers.HttpContinueReadHandler.handleRequest(HttpContinueReadHandler.java:69) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at org.springframework.boot.web.embedded.undertow.DeploymentManagerHttpHandlerFactory$DeploymentManagerHandler.handleRequest(DeploymentManagerHttpHandlerFactory.java:75) ~[spring-boot-2.6.6.jar!/:2.6.6]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:387) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpReadListener.handleEventWithNoRunningRequest(HttpReadListener.java:256) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpReadListener.handleEvent(HttpReadListener.java:136) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpOpenListener.handleEvent(HttpOpenListener.java:162) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpOpenListener.handleEvent(HttpOpenListener.java:100) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpOpenListener.handleEvent(HttpOpenListener.java:57) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at org.xnio.ChannelListeners.invokeChannelListener(ChannelListeners.java:92) ~[xnio-api-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.ChannelListeners$10.handleEvent(ChannelListeners.java:291) ~[xnio-api-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.ChannelListeners$10.handleEvent(ChannelListeners.java:286) ~[xnio-api-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.ChannelListeners.invokeChannelListener(ChannelListeners.java:92) ~[xnio-api-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.nio.QueuedNioTcpServer2.acceptTask(QueuedNioTcpServer2.java:178) ~[xnio-nio-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.nio.WorkerThread.safeRun(WorkerThread.java:612) ~[xnio-nio-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.nio.WorkerThread.run(WorkerThread.java:479) ~[xnio-nio-3.8.6.Final.jar!/:3.8.6.Final]
+
+2023-01-04 02:07:16.219 ERROR 56 --- [XNIO-1 I/O-2] io.undertow.request                      : UT005071: Undertow request failed HttpServerExchange{ OPTIONS *}
+
+java.lang.IllegalArgumentException: UT000068: Servlet path match failed
+	at io.undertow.servlet.handlers.ServletPathMatchesData.getServletHandlerByPath(ServletPathMatchesData.java:83) ~[undertow-servlet-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.servlet.handlers.ServletPathMatches.getServletHandlerByPath(ServletPathMatches.java:133) ~[undertow-servlet-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleRequest(ServletInitialHandler.java:147) ~[undertow-servlet-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.handlers.HttpContinueReadHandler.handleRequest(HttpContinueReadHandler.java:69) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at org.springframework.boot.web.embedded.undertow.DeploymentManagerHttpHandlerFactory$DeploymentManagerHandler.handleRequest(DeploymentManagerHttpHandlerFactory.java:75) ~[spring-boot-2.6.6.jar!/:2.6.6]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:387) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpReadListener.handleEventWithNoRunningRequest(HttpReadListener.java:256) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpReadListener.handleEvent(HttpReadListener.java:136) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpOpenListener.handleEvent(HttpOpenListener.java:162) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpOpenListener.handleEvent(HttpOpenListener.java:100) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpOpenListener.handleEvent(HttpOpenListener.java:57) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at org.xnio.ChannelListeners.invokeChannelListener(ChannelListeners.java:92) ~[xnio-api-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.ChannelListeners$10.handleEvent(ChannelListeners.java:291) ~[xnio-api-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.ChannelListeners$10.handleEvent(ChannelListeners.java:286) ~[xnio-api-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.ChannelListeners.invokeChannelListener(ChannelListeners.java:92) ~[xnio-api-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.nio.QueuedNioTcpServer2.acceptTask(QueuedNioTcpServer2.java:178) ~[xnio-nio-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.nio.WorkerThread.safeRun(WorkerThread.java:612) ~[xnio-nio-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.nio.WorkerThread.run(WorkerThread.java:479) ~[xnio-nio-3.8.6.Final.jar!/:3.8.6.Final]
+
+2023-01-04 02:07:16.264  INFO 56 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-04 02:07:16.265  INFO 56 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-04 02:07:16.272  INFO 56 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2023-01-04 02:07:16.339 ERROR 56 --- [XNIO-1 I/O-2] io.undertow.request                      : UT005071: Undertow request failed HttpServerExchange{ OPTIONS *}
+
+java.lang.IllegalArgumentException: UT000068: Servlet path match failed
+	at io.undertow.servlet.handlers.ServletPathMatchesData.getServletHandlerByPath(ServletPathMatchesData.java:83) ~[undertow-servlet-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.servlet.handlers.ServletPathMatches.getServletHandlerByPath(ServletPathMatches.java:133) ~[undertow-servlet-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleRequest(ServletInitialHandler.java:147) ~[undertow-servlet-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.handlers.HttpContinueReadHandler.handleRequest(HttpContinueReadHandler.java:69) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at org.springframework.boot.web.embedded.undertow.DeploymentManagerHttpHandlerFactory$DeploymentManagerHandler.handleRequest(DeploymentManagerHttpHandlerFactory.java:75) ~[spring-boot-2.6.6.jar!/:2.6.6]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:387) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpReadListener.handleEventWithNoRunningRequest(HttpReadListener.java:256) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpReadListener.handleEvent(HttpReadListener.java:136) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpOpenListener.handleEvent(HttpOpenListener.java:162) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpOpenListener.handleEvent(HttpOpenListener.java:100) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpOpenListener.handleEvent(HttpOpenListener.java:57) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at org.xnio.ChannelListeners.invokeChannelListener(ChannelListeners.java:92) ~[xnio-api-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.ChannelListeners$10.handleEvent(ChannelListeners.java:291) ~[xnio-api-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.ChannelListeners$10.handleEvent(ChannelListeners.java:286) ~[xnio-api-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.ChannelListeners.invokeChannelListener(ChannelListeners.java:92) ~[xnio-api-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.nio.QueuedNioTcpServer2.acceptTask(QueuedNioTcpServer2.java:178) ~[xnio-nio-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.nio.WorkerThread.safeRun(WorkerThread.java:612) ~[xnio-nio-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.nio.WorkerThread.run(WorkerThread.java:479) ~[xnio-nio-3.8.6.Final.jar!/:3.8.6.Final]
+
+2023-01-04 02:07:16.548  INFO 56 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:41644
+2023-01-04 02:07:16.542  INFO 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:40004
+2023-01-04 02:07:16.542  INFO 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:41818
+2023-01-04 02:07:16.550  INFO 56 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:57966
+2023-01-04 02:07:17.154  INFO 56 --- [XNIO-1 task-1] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 02:07:17.172  INFO 56 --- [XNIO-1 task-3] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 02:07:17.178  INFO 56 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 02:07:17.250  INFO 56 --- [XNIO-1 task-4] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 02:11:32.008 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:49588
+2023-01-04 02:16:20.278  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:57966 -- CloseStatus[code=1006, reason=]
+2023-01-04 02:16:20.280  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 02:18:12.048  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:41818 -- CloseStatus[code=1006, reason=]
+2023-01-04 02:18:12.048  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 02:19:45.561 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:52536
+2023-01-04 02:23:55.947 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:40770
+2023-01-04 02:25:35.754 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:58930
+2023-01-04 02:32:22.181 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:49226
+2023-01-04 02:36:26.334 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:50918
+2023-01-04 02:38:52.215 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:39170
+2023-01-04 02:40:31.047 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:48714
+2023-01-04 02:42:41.035 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:45786
+2023-01-04 02:46:48.125  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:40004 -- CloseStatus[code=1006, reason=]
+2023-01-04 02:46:48.126  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 02:47:10.909  INFO 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:46798
+2023-01-04 02:47:11.164  INFO 56 --- [XNIO-1 task-4] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 02:48:01.287 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:37318
+2023-01-04 02:50:11.224 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:41562
+2023-01-04 02:51:20.432 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:33304
+2023-01-04 02:56:32.683 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:45364
+2023-01-04 02:57:13.117 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:55338
+2023-01-04 02:59:53.130 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:56294
+2023-01-04 03:04:21.078 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:55702
+2023-01-04 03:08:07.660 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:48494
+2023-01-04 03:10:03.274  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:41644 -- CloseStatus[code=1006, reason=]
+2023-01-04 03:10:03.283  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 03:10:45.541 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:49284
+2023-01-04 03:11:45.989  INFO 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:55260
+2023-01-04 03:11:45.994  INFO 56 --- [XNIO-1 task-4] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 03:19:21.312 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:43532
+2023-01-04 03:27:41.735 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:54460
+2023-01-04 03:29:41.462 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:34628
+2023-01-04 03:32:03.178  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:55260 -- CloseStatus[code=1006, reason=]
+2023-01-04 03:32:03.181  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 03:32:25.528 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:36130
+2023-01-04 03:32:33.773  INFO 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:47954
+2023-01-04 03:32:33.798  INFO 56 --- [XNIO-1 task-4] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 03:33:07.702 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:60462
+2023-01-04 03:37:43.280  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:47954 -- CloseStatus[code=1006, reason=]
+2023-01-04 03:37:43.280  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 03:38:03.061  INFO 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:41648
+2023-01-04 03:38:03.064  INFO 56 --- [XNIO-1 task-4] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 03:44:23.300  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:46798 -- CloseStatus[code=1006, reason=]
+2023-01-04 03:44:23.300  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 03:44:48.918  INFO 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:47076
+2023-01-04 03:44:49.008  INFO 56 --- [XNIO-1 task-4] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 03:50:46.107 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:38102
+2023-01-04 03:52:26.801 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:43054
+2023-01-04 03:53:53.808  INFO 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:43318
+2023-01-04 03:53:53.825  INFO 56 --- [XNIO-1 task-4] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 03:58:02.225 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:49108
+2023-01-04 04:00:31.948 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:52910
+2023-01-04 04:03:58.745 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:43732
+2023-01-04 04:05:46.433 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:55930
+2023-01-04 04:22:27.081 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:34122
+2023-01-04 04:24:06.557 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:33434
+2023-01-04 04:32:25.127 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:35410
+2023-01-04 04:38:41.221  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:41648 -- CloseStatus[code=1006, reason=]
+2023-01-04 04:38:41.222  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 04:41:45.275  INFO 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:46290
+2023-01-04 04:41:45.280  INFO 56 --- [XNIO-1 task-4] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 04:42:13.434 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:58818
+2023-01-04 04:46:15.497  INFO 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:40594
+2023-01-04 04:46:15.504  INFO 56 --- [XNIO-1 task-4] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 04:48:09.246  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:46290 -- CloseStatus[code=1006, reason=]
+2023-01-04 04:48:09.246  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 04:50:13.801 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:57368
+2023-01-04 04:56:54.140 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:58872
+2023-01-04 05:09:08.128 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:57292
+2023-01-04 05:11:31.280 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:59282
+2023-01-04 05:14:50.554 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:56196
+2023-01-04 05:24:07.413 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:49780
+2023-01-04 05:24:08.549 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:56912
+2023-01-04 05:28:10.847 ERROR 56 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:50632
+2023-01-04 05:43:40.611  INFO 56 --- [main] lavalink.server.Launcher                 : Starting Launcher using Java 17.0.3 on cbb2d27aa3c2 with PID 56 (/home/runner/lavalink-replit/Lavalink.jar started by runner in /home/runner/lavalink-replit)
+2023-01-04 05:43:40.677  INFO 56 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-01-04 05:43:45.789  INFO 56 --- [main] lavalink.server.Launcher                 : Started Launcher in 7.817 seconds (JVM running for 10.153)
+2023-01-04 05:43:45.792  INFO 56 --- [main] lavalink.server.Launcher                 : You can safely ignore the big red warning about illegal reflection. See https://github.com/freyacodes/Lavalink/issues/295
+2023-01-04 05:43:46.084  INFO 56 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        3.5-rc3
+	Build:          1350
+	Build time:     11.08.2022 18:37:19 UTC
+	Branch          HEAD
+	Commit:         1b8e84f
+	Commit time:    11.08.2022 18:22:22 UTC
+	JVM:            17.0.3
+	Lavaplayer      1.3.98.2-original
+
+2023-01-04 05:43:46.095  INFO 56 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to 1 default profile: "default"
+2023-01-04 05:43:49.186  WARN 56 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2023-01-04 05:43:49.284  INFO 56 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2023-01-04 05:43:49.284  INFO 56 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3106 ms
+2023-01-04 05:43:49.779  INFO 56 --- [main] l.server.metrics.PrometheusMetrics       : Prometheus metrics set up
+2023-01-04 05:43:49.882  WARN 56 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2023-01-04 05:43:51.200  INFO 56 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2023-01-04 05:43:51.877  INFO 56 --- [main] lavalink.server.config.KoeConfiguration  : OS: LINUX, Arch: X86_64
+2023-01-04 05:43:51.877  INFO 56 --- [main] lavalink.server.config.KoeConfiguration  : Enabling JDA-NAS
+2023-01-04 05:43:51.882  INFO 56 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: loading with filter null
+2023-01-04 05:43:51.889  INFO 56 --- [main] c.s.l.c.natives.NativeLibraryLoader      : Native library udpqueue: successfully loaded.
+2023-01-04 05:43:53.394  INFO 56 --- [main] io.undertow                              : starting server: Undertow - 2.2.16.Final
+2023-01-04 05:43:53.486  INFO 56 --- [main] org.xnio                                 : XNIO version 3.8.6.Final
+2023-01-04 05:43:53.500  INFO 56 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.8.6.Final
+2023-01-04 05:43:53.887  INFO 56 --- [main] org.jboss.threads                        : JBoss Threads version 3.1.0.Final
+2023-01-04 05:43:54.138  INFO 56 --- [main] o.s.b.w.e.undertow.UndertowWebServer     : Undertow started on port(s) 443 (http)
+2023-01-04 05:43:54.151  INFO 56 --- [main] lavalink.server.Launcher                 : Started Launcher in 8.354 seconds (JVM running for 18.515)
+2023-01-04 05:43:54.153  INFO 56 --- [main] lavalink.server.Launcher                 : Lavalink is ready to accept connections.
+2023-01-04 05:43:54.413 ERROR 56 --- [XNIO-1 I/O-1] io.undertow.request                      : UT005071: Undertow request failed HttpServerExchange{ OPTIONS *}
+
+java.lang.IllegalArgumentException: UT000068: Servlet path match failed
+	at io.undertow.servlet.handlers.ServletPathMatchesData.getServletHandlerByPath(ServletPathMatchesData.java:83) ~[undertow-servlet-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.servlet.handlers.ServletPathMatches.getServletHandlerByPath(ServletPathMatches.java:133) ~[undertow-servlet-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleRequest(ServletInitialHandler.java:147) ~[undertow-servlet-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.handlers.HttpContinueReadHandler.handleRequest(HttpContinueReadHandler.java:69) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at org.springframework.boot.web.embedded.undertow.DeploymentManagerHttpHandlerFactory$DeploymentManagerHandler.handleRequest(DeploymentManagerHttpHandlerFactory.java:75) ~[spring-boot-2.6.6.jar!/:2.6.6]
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:387) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpReadListener.handleEventWithNoRunningRequest(HttpReadListener.java:256) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpReadListener.handleEvent(HttpReadListener.java:136) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpOpenListener.handleEvent(HttpOpenListener.java:162) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpOpenListener.handleEvent(HttpOpenListener.java:100) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at io.undertow.server.protocol.http.HttpOpenListener.handleEvent(HttpOpenListener.java:57) ~[undertow-core-2.2.16.Final.jar!/:2.2.16.Final]
+	at org.xnio.ChannelListeners.invokeChannelListener(ChannelListeners.java:92) ~[xnio-api-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.ChannelListeners$10.handleEvent(ChannelListeners.java:291) ~[xnio-api-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.ChannelListeners$10.handleEvent(ChannelListeners.java:286) ~[xnio-api-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.ChannelListeners.invokeChannelListener(ChannelListeners.java:92) ~[xnio-api-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.nio.QueuedNioTcpServer2.acceptTask(QueuedNioTcpServer2.java:178) ~[xnio-nio-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.nio.WorkerThread.safeRun(WorkerThread.java:612) ~[xnio-nio-3.8.6.Final.jar!/:3.8.6.Final]
+	at org.xnio.nio.WorkerThread.run(WorkerThread.java:479) ~[xnio-nio-3.8.6.Final.jar!/:3.8.6.Final]
+
+2023-01-04 05:43:54.608  INFO 56 --- [XNIO-1 task-1] io.undertow.servlet                      : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-04 05:43:54.615  INFO 56 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-04 05:43:54.672  INFO 56 --- [XNIO-1 task-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 55 ms
+2023-01-04 05:43:54.898  INFO 56 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:40738
+2023-01-04 05:43:55.573  INFO 56 --- [XNIO-1 task-1] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 05:43:57.673  INFO 56 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:50100
+2023-01-04 05:43:57.739  INFO 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:43616
+2023-01-04 05:43:57.771  INFO 56 --- [XNIO-1 task-1] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 05:43:57.998  INFO 56 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 05:48:35.271 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:53536
+2023-01-04 05:49:26.023 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:36654
+2023-01-04 05:51:56.334  INFO 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:40962
+2023-01-04 05:51:56.342  INFO 56 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 05:54:18.934  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:40738 -- CloseStatus[code=1006, reason=]
+2023-01-04 05:54:18.934  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 05:55:47.422 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:50334
+2023-01-04 05:58:55.605 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:35100
+2023-01-04 06:02:27.714 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:48958
+2023-01-04 06:10:10.702  INFO 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:34208
+2023-01-04 06:10:10.707  INFO 56 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 06:14:08.375 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:58976
+2023-01-04 06:19:09.897 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:57044
+2023-01-04 06:25:42.087 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:53200
+2023-01-04 06:27:18.825 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:35440
+2023-01-04 06:33:06.338 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:58354
+2023-01-04 06:33:38.558  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:43616 -- CloseStatus[code=1006, reason=]
+2023-01-04 06:33:38.559  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 06:34:02.337 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:33804
+2023-01-04 06:34:34.966  INFO 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:48108
+2023-01-04 06:34:34.969  INFO 56 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 06:37:46.800 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:52736
+2023-01-04 06:39:48.610 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:41680
+2023-01-04 06:42:32.172 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:39520
+2023-01-04 06:44:10.646 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:55534
+2023-01-04 06:45:42.710 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:55670
+2023-01-04 06:47:28.992 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:44170
+2023-01-04 06:48:16.697  INFO 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:58174
+2023-01-04 06:48:16.700  INFO 56 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 06:48:58.427 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:60216
+2023-01-04 06:52:56.933  INFO 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:57792
+2023-01-04 06:52:56.941  INFO 56 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 06:54:53.405 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:58716
+2023-01-04 06:55:19.800  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:40962 -- CloseStatus[code=1006, reason=]
+2023-01-04 06:55:19.801  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 06:57:30.704 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:57160
+2023-01-04 06:58:08.046 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:41610
+2023-01-04 07:01:26.789 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:49438
+2023-01-04 07:06:33.175 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:41538
+2023-01-04 07:13:19.358 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:48114
+2023-01-04 07:21:39.439 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:50452
+2023-01-04 07:24:53.580 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:44956
+2023-01-04 07:27:48.117 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:41808
+2023-01-04 07:31:07.763 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:52552
+2023-01-04 07:36:08.141 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:50954
+2023-01-04 07:40:52.050 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:46662
+2023-01-04 07:44:12.179 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:42302
+2023-01-04 07:53:15.044 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:40200
+2023-01-04 07:56:28.403 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:46252
+2023-01-04 08:00:18.549 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:47854
+2023-01-04 08:16:58.739 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:40088
+2023-01-04 08:19:28.787 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:55324
+2023-01-04 08:22:31.641 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:39684
+2023-01-04 08:26:31.490 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:46094
+2023-01-04 08:29:29.591 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:55498
+2023-01-04 08:38:11.177 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:46936
+2023-01-04 08:40:45.602 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:50740
+2023-01-04 08:45:03.482 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:38982
+2023-01-04 08:47:49.668 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:51804
+2023-01-04 08:51:59.767 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:49698
+2023-01-04 08:53:24.129 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:54322
+2023-01-04 08:54:01.297 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:59546
+2023-01-04 09:00:53.578 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:33660
+2023-01-04 09:01:43.715 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:38384
+2023-01-04 09:02:26.187 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:54098
+2023-01-04 09:04:11.776 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:36252
+2023-01-04 09:05:02.060 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:49590
+2023-01-04 09:05:51.812 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:50454
+2023-01-04 09:19:56.220 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:33810
+2023-01-04 09:20:02.394 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:46106
+2023-01-04 09:23:03.033  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:58174 -- CloseStatus[code=1006, reason=]
+2023-01-04 09:23:03.034  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 09:23:24.634 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:41150
+2023-01-04 09:27:51.101 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:59228
+2023-01-04 09:32:32.956 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:44610
+2023-01-04 09:35:02.629 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:56100
+2023-01-04 09:35:20.915 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:38764
+2023-01-04 09:37:10.804  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:50100 -- CloseStatus[code=1006, reason=]
+2023-01-04 09:37:10.806  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 09:38:12.632 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:58392
+2023-01-04 09:40:56.040 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:50796
+2023-01-04 09:43:13.001 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:43926
+2023-01-04 09:47:01.302 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:50372
+2023-01-04 09:48:13.050 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:51226
+2023-01-04 10:00:44.175 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:54050
+2023-01-04 10:05:05.693 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:54880
+2023-01-04 10:06:38.275 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:37086
+2023-01-04 10:07:27.804 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:58218
+2023-01-04 10:11:37.757 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:34394
+2023-01-04 10:18:26.406 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:59276
+2023-01-04 10:19:08.429 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:34026
+2023-01-04 10:20:56.270 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:34310
+2023-01-04 10:25:44.006 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:54838
+2023-01-04 10:30:57.188 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:42476
+2023-01-04 10:32:28.936 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:41880
+2023-01-04 10:33:14.390 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:36546
+2023-01-04 10:38:43.431 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:36662
+2023-01-04 10:40:22.669 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:40206
+2023-01-04 10:47:53.043 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:51722
+2023-01-04 10:50:48.908 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:46634
+2023-01-04 10:56:46.742  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:48108 -- CloseStatus[code=1006, reason=]
+2023-01-04 10:56:46.743  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 10:59:55.107 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:49942
+2023-01-04 11:02:53.209 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:44716
+2023-01-04 11:06:20.800  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:34208 -- CloseStatus[code=1006, reason=]
+2023-01-04 11:06:20.801  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 11:06:47.892 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:34578
+2023-01-04 11:09:16.398 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:39328
+2023-01-04 11:09:58.807  INFO 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:39734
+2023-01-04 11:09:59.173  INFO 56 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 11:10:36.937  INFO 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:40190
+2023-01-04 11:10:36.967  INFO 56 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 11:10:58.404 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:49202
+2023-01-04 11:12:36.044  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"531401329826856971","volume":80}
+2023-01-04 11:12:36.465  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"voiceUpdate","guildId":"531401329826856971","sessionId":"eb51b497dec038ab10ef9c2d7bff8c83","event":{"token":"624c9846e964160d","guild_id":"531401329826856971","endpoint":"hongkong4754.discord.media:443"}}
+2023-01-04 11:12:38.556  INFO 56 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "https://music.youtube.com/playlist?list=PL61VgCvtcqFgPamK-h-o00mhzULuHjsKS&feature=share"
+2023-01-04 11:12:41.568  WARN 56 --- [lava-daemon-pool-info-loader-2-thread-1] c.s.d.l.s.y.YoutubeAccessTokenTracker    : YouTube auth tokens can't be retrieved because email and password is not set in YoutubeAudioSourceManager, age restricted videos will throw exceptions.
+2023-01-04 11:12:48.526  INFO 56 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist jeramae
+2023-01-04 11:12:49.031  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"531401329826856971","track":"QAAAbAIABUpvcGF5AA1NYXlvbm5haXNlIFBIAAAAAAAEIpgAC0lYNnBacnlCS1FZAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9SVg2cFpyeUJLUVkAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-04 11:12:52.991  INFO 56 --- [lava-daemon-pool-playback-1-thread-1] c.s.l.c.natives.NativeLibraryLoader      : Native library libmpg123-0: loading with filter com.sedmelluq.discord.lavaplayer.natives.ConnectorNativeLibLoader$$Lambda$822/0x00000008012b5020@66efa7d1
+2023-01-04 11:12:52.991  INFO 56 --- [lava-daemon-pool-playback-1-thread-1] c.s.l.c.natives.NativeLibraryLoader      : Native library connector: loading with filter null
+2023-01-04 11:12:53.215  INFO 56 --- [lava-daemon-pool-playback-1-thread-1] c.s.l.c.natives.NativeLibraryLoader      : Native library connector: successfully loaded.
+2023-01-04 11:13:16.387 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:60440
+2023-01-04 11:13:51.197  WARN 56 --- [lava-daemon-pool-manager-3-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 3] [Bucket 20 = 3] [Bucket 50 = 4] [Bucket 200 = 0] [Bucket 500 = 1] [Bucket 2000 = 0] 
+2023-01-04 11:15:00.047 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:46952
+2023-01-04 11:17:26.209 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:38556
+2023-01-04 11:17:26.453  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"531401329826856971","track":"QAAAcgIACUlrYXcgTGFuZwAPTm9iaXRhIE11c2ljIFBoAAAAAAAEB0AAC2tmSjZlN2pjcWlnAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9a2ZKNmU3amNxaWcAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-04 11:18:20.222  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:39734 -- CloseStatus[code=1006, reason=]
+2023-01-04 11:18:20.222  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 11:21:34.797 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:54012
+2023-01-04 11:21:54.125  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"531401329826856971","track":"QAAAbgIAC1RvIHRoZSBCb25lAAlQYW11bmdrYXMAAAAAAAVDqAALdTBMLXNVN3dRRDgAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj11MEwtc1U3d1FEOAAHeW91dHViZQAAAAAAAAAA"}
+2023-01-04 11:22:25.999 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:38808
+2023-01-04 11:22:40.361  INFO 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:56256
+2023-01-04 11:22:40.369  INFO 56 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 11:23:28.002 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:57912
+2023-01-04 11:27:42.418  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"531401329826856971","track":"QAAAhQIAJ2tpeW8gLSBJa2F3IExhbmcgKE9mZmljaWFsIE11c2ljIFZpZGVvKQAEa2l5bwAAAAAAA9R4AAtpR1JxYjhrQm96OAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWlHUnFiOGtCb3o4AAd5b3V0dWJlAAAAAAAAAAA="}
+2023-01-04 11:29:06.033 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:44588
+2023-01-04 11:31:55.935  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"531401329826856971","track":"QAAAbAIABk1haGlrYQAMQWRpZSAtIFRvcGljAAAAAAADFRAACzRtLTdwLWJmVUZzAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9NG0tN3AtYmZVRnMAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-04 11:34:34.800 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:33182
+2023-01-04 11:35:18.563  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"531401329826856971","track":"QAAAgAIAGVVyb25nIFN1bG9uZyAoZmVhdC4gS2l5bykADUFsaXNzb24gU2hvcmUAAAAAAAQS+AALd3hWZk9DcXJZSlUAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj13eFZmT0NxcllKVQAHeW91dHViZQAAAAAAAAAA"}
+2023-01-04 11:38:28.113 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:38894
+2023-01-04 11:39:46.462  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"531401329826856971","track":"QAAAaAIABlllbGxvdwAIQ29sZHBsYXkAAAAAAAQS+AALOXFucVlMMGVOTkkAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj05cW5xWUwwZU5OSQAHeW91dHViZQAAAAAAAAAA"}
+2023-01-04 11:40:58.479 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:49290
+2023-01-04 11:44:15.495  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"531401329826856971","track":"QAAAbgIAEElMWVNCIChTVFJJUFBFRCkABExBTlkAAAAAAAO9CAALOTVIbGlsUnBWRmsAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj05NUhsaWxScFZGawAHeW91dHViZQAAAAAAAAAA"}
+2023-01-04 11:45:45.014  INFO 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:40832
+2023-01-04 11:45:45.018  INFO 56 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 11:48:22.303  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"531401329826856971","track":"QAAAfAIAGEV2ZXJ5IFdvbWFuIGluIHRoZSBXb3JsZAAKQWlyIFN1cHBseQAAAAAAAzRQAAtGNEI3N2l6U0NmWQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUY0Qjc3aXpTQ2ZZAAd5b3V0dWJlAAAAAAAAAAA="}
+2023-01-04 11:51:52.811  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"531401329826856971","track":"QAAAlAIALUNyYXppZXIgKFRheWxvciBTd2lmdCkgY292ZXIgYnkgQXJ0aHVyIE1pZ3VlbAANQXJ0aHVyIE1pZ3VlbAAAAAAAA4pAAAtKdVZyT0JJLS1fZwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUp1VnJPQkktLV9nAAd5b3V0dWJlAAAAAAAAAAA="}
+2023-01-04 11:55:45.177  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"531401329826856971","track":"QAAAigIAEkp1c3QgdGhlIFR3byBvZiBVcwAeR3JvdmVyIFdhc2hpbmd0b24sIEpyLiAtIFRvcGljAAAAAAAGxmAAC2dlbHd3WXVZR24wAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Z2Vsd3dZdVlHbjAAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-04 11:57:30.896 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:35110
+2023-01-04 12:03:10.026  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"531401329826856971","track":"QAAAbQIAB1RhaGFuYW4ADEFkaWUgLSBUb3BpYwAAAAAABHxwAAt6UUl1MVYxWnpDNAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXpRSXUxVjFaekM0AAd5b3V0dWJlAAAAAAAAAAA="}
+2023-01-04 12:05:58.084 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:34758
+2023-01-04 12:06:41.208 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:34878
+2023-01-04 12:07:34.243  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"pause","guildId":"531401329826856971","pause":true}
+2023-01-04 12:07:34.987  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"pause","guildId":"531401329826856971","pause":false}
+2023-01-04 12:07:56.154  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"pause","guildId":"531401329826856971","pause":true}
+2023-01-04 12:07:56.314  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"destroy","guildId":"531401329826856971"}
+2023-01-04 12:09:05.325  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1022361992293531678","volume":80}
+2023-01-04 12:09:05.628  INFO 56 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "https://music.youtube.com/playlist?list=PL61VgCvtcqFgPamK-h-o00mhzULuHjsKS&feature=share"
+2023-01-04 12:09:05.648  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"voiceUpdate","guildId":"1022361992293531678","sessionId":"eb51b497dec038ab10ef9c2d7bff8c83","event":{"token":"adbd12a78925861f","guild_id":"1022361992293531678","endpoint":"hongkong2302.discord.media:443"}}
+2023-01-04 12:09:06.518  INFO 56 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist jeramae
+2023-01-04 12:09:06.563  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAbAIABUpvcGF5AA1NYXlvbm5haXNlIFBIAAAAAAAEIpgAC0lYNnBacnlCS1FZAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9SVg2cFpyeUJLUVkAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-04 12:09:12.080  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:09:12.083  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAcgIACUlrYXcgTGFuZwAPTm9iaXRhIE11c2ljIFBoAAAAAAAEB0AAC2tmSjZlN2pjcWlnAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9a2ZKNmU3amNxaWcAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-04 12:09:14.316  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:09:14.328  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAbgIAC1RvIHRoZSBCb25lAAlQYW11bmdrYXMAAAAAAAVDqAALdTBMLXNVN3dRRDgAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj11MEwtc1U3d1FEOAAHeW91dHViZQAAAAAAAAAA"}
+2023-01-04 12:09:16.099  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:09:16.103  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAhQIAJ2tpeW8gLSBJa2F3IExhbmcgKE9mZmljaWFsIE11c2ljIFZpZGVvKQAEa2l5bwAAAAAAA9R4AAtpR1JxYjhrQm96OAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWlHUnFiOGtCb3o4AAd5b3V0dWJlAAAAAAAAAAA="}
+2023-01-04 12:09:18.342  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:09:18.348  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAbAIABk1haGlrYQAMQWRpZSAtIFRvcGljAAAAAAADFRAACzRtLTdwLWJmVUZzAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9NG0tN3AtYmZVRnMAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-04 12:09:23.033  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:09:23.043  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAgAIAGVVyb25nIFN1bG9uZyAoZmVhdC4gS2l5bykADUFsaXNzb24gU2hvcmUAAAAAAAQS+AALd3hWZk9DcXJZSlUAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj13eFZmT0NxcllKVQAHeW91dHViZQAAAAAAAAAA"}
+2023-01-04 12:09:25.315  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:09:25.327  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAaAIABlllbGxvdwAIQ29sZHBsYXkAAAAAAAQS+AALOXFucVlMMGVOTkkAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj05cW5xWUwwZU5OSQAHeW91dHViZQAAAAAAAAAA"}
+2023-01-04 12:09:29.031  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:09:29.034  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAbgIAEElMWVNCIChTVFJJUFBFRCkABExBTlkAAAAAAAO9CAALOTVIbGlsUnBWRmsAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj05NUhsaWxScFZGawAHeW91dHViZQAAAAAAAAAA"}
+2023-01-04 12:09:30.881  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:09:30.884  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAfAIAGEV2ZXJ5IFdvbWFuIGluIHRoZSBXb3JsZAAKQWlyIFN1cHBseQAAAAAAAzRQAAtGNEI3N2l6U0NmWQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUY0Qjc3aXpTQ2ZZAAd5b3V0dWJlAAAAAAAAAAA="}
+2023-01-04 12:09:32.578  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:09:32.584  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAlAIALUNyYXppZXIgKFRheWxvciBTd2lmdCkgY292ZXIgYnkgQXJ0aHVyIE1pZ3VlbAANQXJ0aHVyIE1pZ3VlbAAAAAAAA4pAAAtKdVZyT0JJLS1fZwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUp1VnJPQkktLV9nAAd5b3V0dWJlAAAAAAAAAAA="}
+2023-01-04 12:09:35.772 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:49002
+2023-01-04 12:09:37.693  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:09:37.696  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAigIAEkp1c3QgdGhlIFR3byBvZiBVcwAeR3JvdmVyIFdhc2hpbmd0b24sIEpyLiAtIFRvcGljAAAAAAAGxmAAC2dlbHd3WXVZR24wAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Z2Vsd3dZdVlHbjAAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-04 12:09:42.123  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:09:42.127  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAbQIAB1RhaGFuYW4ADEFkaWUgLSBUb3BpYwAAAAAABHxwAAt6UUl1MVYxWnpDNAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXpRSXUxVjFaekM0AAd5b3V0dWJlAAAAAAAAAAA="}
+2023-01-04 12:09:45.368  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:09:45.374  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAbwIACVBhcmFsdW1hbgAMQWRpZSAtIFRvcGljAAAAAAAExqgAC3BudXVHUTZPMTFrAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cG51dUdRNk8xMWsAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-04 12:10:30.447  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:40190 -- CloseStatus[code=1006, reason=]
+2023-01-04 12:10:30.448  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 1 playing players.
+2023-01-04 12:10:44.038  INFO 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:47104
+2023-01-04 12:10:44.042  INFO 56 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 12:12:55.282 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:46500
+2023-01-04 12:13:14.646 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:45200
+2023-01-04 12:14:55.872  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:47104 -- CloseStatus[code=1006, reason=]
+2023-01-04 12:14:55.873  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 12:15:26.291  INFO 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:52896
+2023-01-04 12:15:26.293  INFO 56 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 12:20:22.507  INFO 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:41960
+2023-01-04 12:20:22.510  INFO 56 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 12:20:35.459  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1022361992293531678","volume":80}
+2023-01-04 12:20:35.725  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"voiceUpdate","guildId":"1022361992293531678","sessionId":"08992d1b69ebd742d66b2fb539455c23","event":{"token":"d2f1d6aae68c6e2c","guild_id":"1022361992293531678","endpoint":"hongkong2302.discord.media:443"}}
+2023-01-04 12:20:35.957  INFO 56 --- [XNIO-1 task-2] l.server.player.AudioLoaderRestHandler   : Got request to load for identifier "https://music.youtube.com/playlist?list=PL61VgCvtcqFgPamK-h-o00mhzULuHjsKS&feature=share"
+2023-01-04 12:20:36.462  INFO 56 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist jeramae
+2023-01-04 12:20:36.569  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAbAIABUpvcGF5AA1NYXlvbm5haXNlIFBIAAAAAAAEIpgAC0lYNnBacnlCS1FZAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9SVg2cFpyeUJLUVkAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-04 12:20:40.274  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:20:40.351  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAcgIACUlrYXcgTGFuZwAPTm9iaXRhIE11c2ljIFBoAAAAAAAEB0AAC2tmSjZlN2pjcWlnAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9a2ZKNmU3amNxaWcAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-04 12:20:42.712  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:20:42.794  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAbgIAC1RvIHRoZSBCb25lAAlQYW11bmdrYXMAAAAAAAVDqAALdTBMLXNVN3dRRDgAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj11MEwtc1U3d1FEOAAHeW91dHViZQAAAAAAAAAA"}
+2023-01-04 12:20:45.202  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:20:45.291  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAhQIAJ2tpeW8gLSBJa2F3IExhbmcgKE9mZmljaWFsIE11c2ljIFZpZGVvKQAEa2l5bwAAAAAAA9R4AAtpR1JxYjhrQm96OAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWlHUnFiOGtCb3o4AAd5b3V0dWJlAAAAAAAAAAA="}
+2023-01-04 12:20:48.007  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:20:48.084  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAbAIABk1haGlrYQAMQWRpZSAtIFRvcGljAAAAAAADFRAACzRtLTdwLWJmVUZzAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9NG0tN3AtYmZVRnMAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-04 12:20:51.543  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:20:51.615  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAgAIAGVVyb25nIFN1bG9uZyAoZmVhdC4gS2l5bykADUFsaXNzb24gU2hvcmUAAAAAAAQS+AALd3hWZk9DcXJZSlUAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj13eFZmT0NxcllKVQAHeW91dHViZQAAAAAAAAAA"}
+2023-01-04 12:20:53.293  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:20:53.367  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAaAIABlllbGxvdwAIQ29sZHBsYXkAAAAAAAQS+AALOXFucVlMMGVOTkkAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj05cW5xWUwwZU5OSQAHeW91dHViZQAAAAAAAAAA"}
+2023-01-04 12:20:55.827  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:20:55.900  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAbgIAEElMWVNCIChTVFJJUFBFRCkABExBTlkAAAAAAAO9CAALOTVIbGlsUnBWRmsAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj05NUhsaWxScFZGawAHeW91dHViZQAAAAAAAAAA"}
+2023-01-04 12:20:59.247  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:20:59.322  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAfAIAGEV2ZXJ5IFdvbWFuIGluIHRoZSBXb3JsZAAKQWlyIFN1cHBseQAAAAAAAzRQAAtGNEI3N2l6U0NmWQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUY0Qjc3aXpTQ2ZZAAd5b3V0dWJlAAAAAAAAAAA="}
+2023-01-04 12:21:05.810  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:21:05.884  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAlAIALUNyYXppZXIgKFRheWxvciBTd2lmdCkgY292ZXIgYnkgQXJ0aHVyIE1pZ3VlbAANQXJ0aHVyIE1pZ3VlbAAAAAAAA4pAAAtKdVZyT0JJLS1fZwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUp1VnJPQkktLV9nAAd5b3V0dWJlAAAAAAAAAAA="}
+2023-01-04 12:21:08.417  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:21:08.490  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAigIAEkp1c3QgdGhlIFR3byBvZiBVcwAeR3JvdmVyIFdhc2hpbmd0b24sIEpyLiAtIFRvcGljAAAAAAAGxmAAC2dlbHd3WXVZR24wAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Z2Vsd3dZdVlHbjAAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-04 12:21:11.237  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:21:11.312  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAbQIAB1RhaGFuYW4ADEFkaWUgLSBUb3BpYwAAAAAABHxwAAt6UUl1MVYxWnpDNAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXpRSXUxVjFaekM0AAd5b3V0dWJlAAAAAAAAAAA="}
+2023-01-04 12:21:16.521  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"stop","guildId":"1022361992293531678"}
+2023-01-04 12:21:16.598  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAbwIACVBhcmFsdW1hbgAMQWRpZSAtIFRvcGljAAAAAAAExqgAC3BudXVHUTZPMTFrAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9cG51dUdRNk8xMWsAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-04 12:21:51.197  WARN 56 --- [lava-daemon-pool-manager-3-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 3] [Bucket 20 = 0] [Bucket 50 = 0] [Bucket 200 = 1] [Bucket 500 = 0] [Bucket 2000 = 0] 
+2023-01-04 12:24:17.382 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:56236
+2023-01-04 12:26:29.352  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAbgIAClBob3RvZ3JhcGgACkVkIFNoZWVyYW4AAAAAAAPzuAALU2xiZkFZdkFfZ0kAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1TbGJmQVl2QV9nSQAHeW91dHViZQAAAAAAAAAA"}
+2023-01-04 12:29:18.176 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:59908
+2023-01-04 12:30:48.807  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAigIAJ0Fsd2F5cyBCZSBNeSBCYWJ5IC0gRGF2aWQgQ29vayAoTHlyaWNzKQAJU2VyIFJlZWV5AAAAAAADikAAC0czbldGcjM1ZTdJAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RzNuV0ZyMzVlN0kAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-04 12:30:58.109 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:44132
+2023-01-04 12:31:16.458  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"volume","guildId":"1022361992293531678","volume":80}
+2023-01-04 12:34:41.532  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAZwIABk11c2lrYQAHRGlvbmVsYQAAAAAAA8TYAAtLdWsxcEVtNHNSNAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUt1azFwRW00c1I0AAd5b3V0dWJlAAAAAAAAAAA="}
+2023-01-04 12:36:00.032 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:54170
+2023-01-04 12:38:48.482  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAfgIAClBhbmFsYW5naW4AGkFQTyBIaWtpbmcgU29jaWV0eSAtIFRvcGljAAAAAAADQAgAC2Q4eUQ4MEpEck1nAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZDh5RDgwSkRyTWcAB3lvdXR1YmUAAAAAAAAAAA=="}
+2023-01-04 12:40:58.978 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:53032
+2023-01-04 12:42:21.569  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAbgIACEJpbmliaW5pAAxaYWNrIFRhYnVkbG8AAAAAAANjMAALY3Y2WktRQUdWT28AAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1jdjZaS1FBR1ZPbwAHeW91dHViZQAAAAAAAAAA"}
+2023-01-04 12:43:18.201 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:50944
+2023-01-04 12:44:06.074 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:38268
+2023-01-04 12:46:03.852  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAcAIAC0F0IE15IFdvcnN0AAtQaW5rIFN3ZWF0cwAAAAAAApv4AAtSSFVVeTNhY3B0awABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVJIVVV5M2FjcHRrAAd5b3V0dWJlAAAAAAAAAAA="}
+2023-01-04 12:46:38.118 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:56858
+2023-01-04 12:48:05.845  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:56256 -- CloseStatus[code=1006, reason=]
+2023-01-04 12:48:05.848  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 12:48:18.421 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:47050
+2023-01-04 12:48:54.412  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAawIAB1BlcmZlY3QACkVkIFNoZWVyYW4AAAAAAAQHQAALT1JyRko2M25sY0EAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1PUnJGSjYzbmxjQQAHeW91dHViZQAAAAAAAAAA"}
+2023-01-04 12:49:08.537 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:57602
+2023-01-04 12:50:48.538 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:51490
+2023-01-04 12:52:40.298 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:55324
+2023-01-04 12:53:18.209  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAgwIAHFBvbGFyb2lkIChmZWF0LiBLaXlvLCBObyRpYSkADUFsaXNzb24gU2hvcmUAAAAAAAMFcAALLUVYOWh6ME9id0kAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj0tRVg5aHowT2J3SQAHeW91dHViZQAAAAAAAAAA"}
+2023-01-04 12:54:44.747  INFO 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:48030
+2023-01-04 12:54:44.816  INFO 56 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 12:55:27.175 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:45858
+2023-01-04 12:56:36.668  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"play","guildId":"1022361992293531678","track":"QAAAdAIAElRoZSBPbmx5IEV4Y2VwdGlvbgAIUGFyYW1vcmUAAAAAAAQW4AALQ2hYY0Q2WjR1dlEAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1DaFhjRDZaNHV2UQAHeW91dHViZQAAAAAAAAAA"}
+2023-01-04 12:56:49.385 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:38932
+2023-01-04 12:57:17.574  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"op":"pause","guildId":"1022361992293531678","pause":true}
+2023-01-04 13:00:36.948  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:41960 -- CloseStatus[code=1006, reason=]
+2023-01-04 13:00:36.948  INFO 56 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 13:01:07.044  INFO 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:45018
+2023-01-04 13:01:07.066  INFO 56 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 13:02:06.444 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:44524
+2023-01-04 13:09:11.754 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:34614
+2023-01-04 13:13:07.993 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:35332
+2023-01-04 13:19:31.619  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:48030 -- CloseStatus[code=1006, reason=]
+2023-01-04 13:19:31.622  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 13:20:00.344 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:41436
+2023-01-04 13:20:04.650  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:45018 -- CloseStatus[code=1006, reason=]
+2023-01-04 13:20:04.650  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 13:20:35.353  INFO 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:45726
+2023-01-04 13:20:35.398  INFO 56 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 13:21:13.899  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:52896 -- CloseStatus[code=1006, reason=]
+2023-01-04 13:21:13.899  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 13:23:08.054 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:53708
+2023-01-04 13:24:32.530  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:57792 -- CloseStatus[code=1006, reason=]
+2023-01-04 13:24:32.530  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 13:25:16.959 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:50028
+2023-01-04 13:26:32.338 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:56522
+2023-01-04 13:29:46.300 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:46820
+2023-01-04 13:31:56.484 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:48488
+2023-01-04 13:35:38.256 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:58250
+2023-01-04 13:38:59.292 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:57904
+2023-01-04 13:41:33.397 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:32822
+2023-01-04 13:52:18.636 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:52606
+2023-01-04 13:53:56.777 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:40634
+2023-01-04 13:56:48.901  INFO 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /172.31.128.1:38828
+2023-01-04 13:56:49.029  INFO 56 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from erela.js
+2023-01-04 14:00:50.933 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:52610
+2023-01-04 14:07:22.924  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /172.31.128.1:45726 -- CloseStatus[code=1006, reason=]
+2023-01-04 14:07:22.931  INFO 56 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2023-01-04 14:09:47.938 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:38886
+2023-01-04 14:17:23.252 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:53332
+2023-01-04 14:21:40.120 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:45782
+2023-01-04 14:23:21.608 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:33286
+2023-01-04 14:31:42.147 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:44468
+2023-01-04 14:36:41.526 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:45038
+2023-01-04 14:39:04.108 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:59244
+2023-01-04 14:40:02.596 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:37972
+2023-01-04 14:42:30.285 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:35240
+2023-01-04 14:43:10.155 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:50182
+2023-01-04 14:51:41.238 ERROR 56 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Authentication failed from /172.31.128.1:53642
