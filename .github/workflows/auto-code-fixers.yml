@@ -1,23 +1,39 @@
-name: Automatic Code Fixers
+name: Automatic Code Fixer
+
 on:
-  pull_request:
+  push:
     branches: [main]
-    types: [opened, synchronize]
   workflow_dispatch:
+
 jobs:
-  lint:
+  fixer:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-      - name: Install dependencies
-        run: |
-          npm install --global prettier
-          nix-env -iA cachix -f https://cachix.org/api/v1/install
-          cachix use nixpkgs
-      - name: Run prettier
-        run: prettier --write "**/*.js"
-      - name: Run nixpkgs-fmt
-        run: nixpkgs-fmt . --check
-      - name: Run shellcheck
-        run: shellcheck **/*.sh
+    - name: Checkout code
+      uses: actions/checkout@v2
+      
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14.x'
+        
+    - name: Install dependencies
+      run: npm install
+      
+    - name: Run automatic code fixer
+      run: npm run lint:fix
+      
+    - name: Commit changes
+      run: |
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git add .
+        git commit -m "Automatic code formatting fixes [skip ci]"
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        branch: ${{ github.ref }}
+        force: true
+        github_token: ${{ secrets.TOKEN }}
