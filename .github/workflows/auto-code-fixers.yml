@@ -1,0 +1,23 @@
+name: Automatic Code Fixers
+on:
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize]
+  workflow_dispatch:
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: |
+          npm install --global prettier
+          nix-env -iA cachix -f https://cachix.org/api/v1/install
+          cachix use nixpkgs
+      - name: Run prettier
+        run: prettier --write "**/*.js"
+      - name: Run nixpkgs-fmt
+        run: nixpkgs-fmt . --check
+      - name: Run shellcheck
+        run: shellcheck **/*.sh
